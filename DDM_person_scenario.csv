@@ -1,0 +1,11 @@
+sample_id,use_5g,travel_time,country,urbanicity,headp_ear_num,mpc_duration,mpc_ear_prop,mpc_headp_prop,mpd_wifi_prop_home,mpd_wifi_prop_travel,mpd_wifi_prop_work,mpd_dur_low,mpd_dur_lowtomed,mpd_dur_medtohigh,mpd_dur_high,dect_duration,dect_ear_prop,lptp_dur_low,lptp_dur_lowtomed,lptp_dur_medtohigh,lptp_dur_high,tblt_dur_low,tblt_dur_lowtomed,tblt_dur_medtohigh,tblt_dur_high,hotspot_duration,smartwatch_duration,vr_duration,headphone_duration,gaming_duration,smarthome
+Default,TRUE,1850,CH,suburban,2,653,0.45,0.23,0.7,0.31,0.47,1881,2252,2354,0,50,0.35,445,1112,715,0,127,9397,253,0,0,0,0,3847,0,0
+Influencer,TRUE,1850,CH,urban,2,2000,0.1,0.8,0.9,0.1,0.9,6000,4000,6000,3600,0,0,0,0,0,0,1200,900,1000,300,0,86400,0,14000,0,home duration
+University student,TRUE,3000,CH,urban,2,700,0.45,0.35,0.8,0.5,0.7,2000,2500,4000,540,0,0,5000,1200,4000,300,0,1200,253,0,500,43200,1000,4000,1000,0
+Office worker,TRUE,2400,CH,suburban,2,424,0.6,0.3,0.7,0.6,0.2,1500,540,2400,400,200,0.7,8000,1500,4000,180,0,0,0,0,0,7200,0,6000,0,0
+Remote worker,TRUE,1000,CH,suburban,2,800,0.4,0.3,0.9,0.2,1,1500,1400,2400,600,200,0.35,8000,1500,4000,180,0,0,0,0,0,7200,0,6000,0,home duration
+Gamer (portable-VR),TRUE,1850,CH,urban,2,424,0.2,0.65,0.9,0.5,0.5,1800,2250,4000,0,0,0,445,1500,1500,60,728,81,253,0,500,86400,3600,2200,12000,0
+Commuter,TRUE,7200,CH,suburban,2,650,0.4,0.4,0.7,0.8,0.5,4000,3000,3000,0,50,0.35,445,1112,715,0,127,81,0,0,0,0,0,3847,0,0
+Farmer,FALSE,1850,CH,rural,0,500,0.8,0.1,0.5,0.5,0.5,1000,500,1000,0,500,0.7,450,60,200,0,0,0,0,0,0,0,0,0,0,0
+Feature phone user,FALSE,1850,CH,suburban,0,900,0.8,0,0,0,0,0,0,0,0,200,0.35,450,60,200,0,0,0,0,0,0,0,0,0,0,0
+non- wireless personal device user,FALSE,1850,CH,suburban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

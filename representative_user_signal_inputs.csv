@@ -1,0 +1,11 @@
+sample_id,use_5g,lte_rsrp_dbm,lte_rsrq_db,nr_ssrsrp_dbm
+Default,TRUE,NA,NA,NA
+Influencer,TRUE,NA,NA,NA
+University student,TRUE,NA,NA,NA
+Office worker,TRUE,NA,NA,NA
+Remote worker,TRUE,NA,NA,NA
+Gamer (portable-VR),TRUE,NA,NA,NA
+Commuter,TRUE,NA,NA,NA
+Farmer,FALSE,NA,NA,NA
+Feature phone user,FALSE,NA,NA,NA
+Non- WPD user,FALSE,NA,NA,NA
